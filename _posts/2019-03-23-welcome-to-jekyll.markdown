@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conflicts in Github"
-date:   2019-03-23 21:03:36 +0530
+date:   2019-09-18 13:03:36 +0530
 
 ---
 To solve the conflict issue in github, follow these steps:  
