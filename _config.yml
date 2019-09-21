@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Eithar Elbasheer
-  tagline: Masters in Data Science, UBC
+  tagline: MDS, UBC
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
